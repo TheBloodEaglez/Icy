@@ -16,3 +16,5 @@ icy+ uses strpos and a simple number generator to then "strpos" if you will,
  one was the proof of concept and the other is icy+ without logic
 PS if someone could edit the Readme that would be nice also
 
+Ps
+So the Readme is for both the old password cracker and the new one and so things like Dave's algorithm (which the implementation in code has been lost) aren't used in the new password file (something similar) 
